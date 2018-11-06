@@ -1,6 +1,6 @@
-## nodejs-master-class-assignment-1
+# nodejs-master-class-assignment-1
 
-# How to run
+## How to run
 
 Run command:
 
